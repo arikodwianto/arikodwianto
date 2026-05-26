@@ -100,12 +100,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arikodwianto&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
 # 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arikodwianto/arikodwianto/output/snake.svg" alt="Snake animation" />
 </p>
-```
+
 
