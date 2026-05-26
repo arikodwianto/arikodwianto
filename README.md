@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Arikodwianto</h1>
 <h3 align="center">Fullstack Developer • Django Enthusiast • Data Analytics Learner</h3>
 
