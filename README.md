@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Goo</h1>
 <h3 align="center">Lifelong Learner • Fullstack Developer • Tech Enthusiast</h3>
 
