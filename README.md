@@ -7,11 +7,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Django+Developer;Learning+Data+Analytics;Building+Web+Applications;Always+Learning+New+Things" />
 </p>
 <div align="center">
-  <img height="180" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
+  <img height="180" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arikodwianto&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+<div align="center">
+
+  [![GitHub followers](https://img.shields.io/github/followers/arikodwianto?style=for-the-badge&logo=github)](https://github.com/arikodwianto)
+ 
+</div>
 
 ---
 
