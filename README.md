@@ -1,4 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Arikodwianto</h1>
+
+![GitHub Banner](img/github-header-banner.png)
 <h3 align="center">Fullstack Developer • Django Enthusiast • Data Analytics Learner</h3>
 
 <p align="center">
@@ -13,18 +16,53 @@
 
 # 🚀 About Me
 
-- 🌱 Currently learning **Data Analytics & Machine Learning**
-- 💻 Focus on **Django, Flask, JavaScript, and MySQL**
-- 📚 Interested in **Decision Support Systems & AI**
-- 🎯 Building web applications and smart systems
-- ⚡ Fun fact: *I love coding and building useful systems*
+<div align="center">
+
+✨ Passionate about building intelligent and impactful digital solutions  
+
+</div>
+
+<br>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+### 👨‍💻 Current Focus
+- 📊 Learning **Data Analytics & Machine Learning**
+- 🧠 Exploring **Artificial Intelligence & DSS**
+- 🌐 Developing modern **Web Applications**
+- ⚙️ Building scalable systems using **Django & Flask**
+
+</td>
+
+<td width="50%" align="left">
+
+### 🛠️ Tech Interests
+- 🐍 Python Ecosystem
+- 💻 JavaScript Development
+- 🗄️ MySQL & PostgreSQL
+- 📈 Data Visualization & Analytics
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### ⚡ Fun Fact
+> *“I enjoy turning ideas into useful and smart systems.”*
+
+</div>
 
 ---
 
 # 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,javascript,html,css,bootstrap,tailwind,mysql,postgresql,php,java,cpp,react" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,laravel,javascript,html,css,bootstrap,mysql,php" />
 </p>
 
 ---
@@ -32,29 +70,39 @@
 # 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma,postman" />
 </p>
 
 ---
 
 # 📂 Featured Projects
 
-- 🧠 Sistem Pendukung Keputusan Metode AHP
-- 📊 Prediksi Kursus Menggunakan KNN
-- 🏢 Sistem ERP & Kepegawaian Django
-- 🌐 Website dan Dashboard Interaktif
+### 🧠 Sistem Pendukung Keputusan Metode AHP
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arikodwianto&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikodwianto&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 📊 Prediksi Kursus Menggunakan KNN
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
+
+### 🏢 Sistem ERP & Kepegawaian Django
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🌐 Website dan Dashboard Interaktif
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+
 
 # 🔥 GitHub Streak
 
@@ -71,40 +119,19 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://instagram.com/usernamekamu">
+  <a href="https://www.instagram.com/arikooooooooooo?igsh=MTcwdTR5Z3dqMmpvZQ==">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-  <a href="mailto:emailkamu@gmail.com">
+  <a href="mailto:arikodwi06@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
+<br clear="both">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arikodwianto&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<img src="https://raw.githubusercontent.com/arikodwianto/arikodwianto/snake-output/snake.svg" alt="Snake animation" />
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
-</p>
-
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arikodwianto&theme=tokyo-night&hide_border=true" />
-</p>
-
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arikodwianto/arikodwianto/output/snake.svg" alt="Snake animation" />
-</p>
 
 
