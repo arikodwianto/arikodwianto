@@ -74,37 +74,38 @@
 
 ---
 
-# 📂 Featured Projects
+# <img src="https://img.icons8.com/fluency/48/folder-invoices.png" width="28"> Featured Projects
 
-### 🧠 Sistem Pendukung Keputusan Metode AHP
+### <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="22"> Sistem Pendukung Keputusan Metode AHP
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
-### 📊 Prediksi Kursus Menggunakan KNN
+### <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="22"> Prediksi Kursus Menggunakan KNN
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
-### 🏢 Sistem ERP & Kepegawaian Django
+### <img src="https://img.icons8.com/fluency/48/organization.png" width="22"> Sistem ERP & Kepegawaian Django
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 🛍️ Sistem Informasi Pengolahan Data Penjualan Di Toko Plastik GH Tanjungpinang
+### <img src="https://img.icons8.com/fluency/48/shopping-cart-loaded.png" width="22"> Sistem Informasi Pengolahan Data Penjualan Di Toko Plastik GH Tanjungpinang
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🌐 Website dan Dashboard Interaktif
+### <img src="https://img.icons8.com/fluency/48/web-design.png" width="22"> Website dan Dashboard Interaktif
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 
 
@@ -117,7 +118,7 @@
 
 ---
 
-# 🌐 Connect With Me
+# <img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" width="25"> Connect With Me
 
 <p align="center">
   <a href="https://github.com/arikodwianto">
@@ -132,16 +133,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arikodwianto/arikodwianto/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/arikodwianto/arikodwianto/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 ---
 <br clear="both">
 
